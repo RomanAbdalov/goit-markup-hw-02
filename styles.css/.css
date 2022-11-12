@@ -99,6 +99,7 @@
         font-weight: 700;
         font-size: 16px;
         line-height: 1.875;
+        cursor: pointer;
        }
        .button:hover,
        .button:focus {
@@ -129,7 +130,6 @@
         color: var(--title-text-color);
     }
     .feature-text {
-        font-weight: 400;
         font-size: 14px;
         line-height: 1.71;
         letter-spacing: 0.03em;
@@ -156,7 +156,6 @@
         color: var(--title-text-color);
     }
     .team-text {
-        font-weight: 400;
         font-size: 16px;
         line-height: 1.1875;
         letter-spacing: 0.03em;
@@ -209,7 +208,6 @@ letter-spacing: 0.06em;
 color: var(--title-text-color);
  }
  .foto-text {
-font-weight: 400;
 font-size: 16px;
 line-height: 1.875;
 letter-spacing: 0.03em;
